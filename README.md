@@ -54,3 +54,6 @@ Perfis
 - Conseguir calcular o valor de entrega de determinando produto e do carrinho completo
 - Conseguir também se cadastrar no sistema - fazer login, se cadastrar
 - Ver as paginas institucionais da loja
+
+![image](https://user-images.githubusercontent.com/42187451/231042111-b4aa5f3c-3e51-4c3f-8a06-96c07e0caf11.png)
+
